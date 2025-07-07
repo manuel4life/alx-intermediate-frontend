@@ -1,0 +1,5 @@
+# Steps to install SASS:
+
+#1 Created directory '0x03-sass_scss' inside alx-intermediate-frontend Repository
+#2 Installed SASS using npm with the command: npm install -g sass
+#3 Created an empty file '0-installation-script.' in the directory
